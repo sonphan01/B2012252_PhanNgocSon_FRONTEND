@@ -1,6 +1,7 @@
 {
-  "name": " contactbook-frontend",
+  "name": "contactbook-frontend",
   "version": "0.0.0",
+  "author": "Phan Ngoc Son",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -10,7 +11,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.3.0",
     "axios": "^1.3.4",
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^5.3.3",
     "jquery": "^3.6.4",
     "popper.js": "^1.16.1",
     "vee-validate": "^4.8.3",
@@ -19,7 +20,7 @@
     "yup": "^1.0.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.0.0",
-    "vite": "^4.1.4"
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1"
   }
 }
